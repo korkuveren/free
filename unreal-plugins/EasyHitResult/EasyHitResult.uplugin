@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "EasyHitResult",
+	"Description": "A plugin which allows easier hit result handling in Blueprint.",
+	"Category": "Other",
+	"CreatedBy": "Devlin Willis",
+	"CreatedByURL": "http://www.gameplay.solutions/devlin",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "EasyHitResult",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}

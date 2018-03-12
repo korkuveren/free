@@ -1,0 +1,5 @@
+# Easy Hit Result
+
+[](https://youtu.be/uX0wcJeGeIg)
+
+This plugin simply mirrors FHitResult into a new type which simply allows all fields to be accessed via BP. It is only a minor quality of life plugin which doesn't offer any new functionality. Thus, I won't be providing maintenance or updates.
